@@ -60,7 +60,7 @@ dependencies {
 		exclude("org.jboss.shrinkwrap.resolver")
 		exclude("shrinkwrap-resolver-depchain")
 	}
-	implementation('org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven:3.1.4'
+	implementation("org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-impl-maven:3.1.4")
 	implementation("com.github.Articdive:JNoise:$jnoise_version")
 	implementation("com.github.CatDevz:SlimeLoader:master-SNAPSHOT")
 	implementation("net.kyori:adventure-text-minimessage:$minimessage_version")
