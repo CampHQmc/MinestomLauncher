@@ -1,3 +1,5 @@
+# **THIS FORK IS NOT STABLE AND IT'S NOT PRECISE + IT CONTAINS JANK. BEWARE.**
+---
 ![banner](.github/logo.gif)
 
 # Minestom Launcher
