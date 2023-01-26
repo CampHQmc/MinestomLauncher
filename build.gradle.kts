@@ -56,7 +56,7 @@ dependencies {
 	val jnoise_version      = project.properties["jnoise_version"]      ?: "b93008e35e"
 	val minimessage_version = project.properties["minimessage_version"] ?: "4.11.0"
 
-	implementation("com.github.Minestom:Minestom:$minestom_version")
+	implementation("com.github.CampHQmc.Minestom:Minestom:$minestom_version")
 	implementation("com.github.Articdive:JNoise:$jnoise_version")
 	implementation("com.github.CatDevz:SlimeLoader:master-SNAPSHOT")
 	implementation("net.kyori:adventure-text-minimessage:$minimessage_version")
